@@ -1,2 +1,15 @@
-# umi-demo
-react umi 框架
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
