@@ -1,4 +1,4 @@
-import styles from './index.less';
+import './index.less';
 import ListItem from '../components/list-item';
 import { useState } from 'react';
 export default function IndexPage() {
