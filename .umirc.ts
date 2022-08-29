@@ -29,6 +29,15 @@ export default defineConfig({
         icon: 'smile',
       },
     },
+    {
+      path: '/charts',
+      component: '@/pages/charts',
+      menu: {
+        // 兼容此写法
+        name: '引入echarts看看咯',
+        icon: 'smile',
+      },
+    },
   ],
   fastRefresh: {},
   layout: {},
